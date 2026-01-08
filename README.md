@@ -31,4 +31,4 @@ I build modular libraries, sensor interfaces, and communication protocols for re
 ## 📬 Connect
 
 - LinkedIn: https://www.linkedin.com/in/ioan-ovidiu-sabau-587ab57a/
-- XING: https://www.xing.com/profile/IoanOvidiu_Sabau/web_profiles?nwt_nav=profile_icon
+- XING: https://www.xing.com/profile/IoanOvidiu_Sabau
